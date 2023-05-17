@@ -1,4 +1,4 @@
-# Projeto simples de website feito em ReactJS
+# Projeto simples de website feito com ReactJS
 Este projeto foi desenvolvido para permitir que o usuário pode salvar “imagens” em pastas para organizar esses conteúdos. As pastas são uma forma de organizar esses pins e elas são persistidas no local storage para que possam ser acessadas posteriormente.
 
 O projeto consiste em duas páginas:
