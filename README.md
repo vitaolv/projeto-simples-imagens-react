@@ -4,6 +4,7 @@ Este projeto foi desenvolvido para permitir que o usuário pode salvar “imagen
 O projeto consiste em duas páginas:
 
 Home - possui as principais funcionalidades
+
 Minhas Pastas - contém lista de pastas e o número de pins salvos dentro de cada uma
 
 ![localhost_3000_](https://github.com/vitaolv/projeto-simples-imagens-react/assets/84293496/968a3600-0a5a-4030-99d3-d7f574b90ca9)
